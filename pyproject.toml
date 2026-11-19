@@ -1,0 +1,10 @@
+[project]
+name = "gpu-qsim"
+version = "0.1.0"
+description = "GPU-accelerated quantum circuit benchmarking and H2 UCCSD-VQE with NVIDIA CUDA-Q"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+addopts = "-v"
