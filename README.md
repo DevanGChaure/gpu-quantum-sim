@@ -23,7 +23,7 @@
 
 ![VQE convergence at 0.735 Å](notebooks/results/h2_pes.png)
 
-![H₂ potential energy curve (UCCSD-VQE)](notebooks/results/h2_pes_combined.png)
+![H₂ potential energy curve (UCCSD-VQE)](notebooks/results/h2_pes_test.png)
 
 ![VQE error vs FCI, log scale](notebooks/results/h2_error_log.png)
 
